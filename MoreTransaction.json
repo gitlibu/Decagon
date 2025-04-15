@@ -23,6 +23,17 @@
       "rejection_reason": "Insufficient balance"
     },
     {
+      "merchant_location": "Bet365, 102 King St, Vancouver, BC",
+      "timestamp": "2025-04-15T11:05:20Z",
+      "amount": 5.50,
+      "account_number": "1234567890987654",
+      "card_id": "CARD0987654321ABC",
+      "card_last4": "8765",
+      "balance_at_transaction": 3.00,
+      "rejection_code": "33",
+      "rejection_reason": "Suspected Fraud"
+    },
+    {
       "merchant_location": "SportChek, 789 King St, Toronto, ON",
       "timestamp": "2025-04-15T11:42:10Z",
       "amount": 120.00,
