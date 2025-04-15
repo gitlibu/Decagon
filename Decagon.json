@@ -11,16 +11,3 @@
     "rejection_reason": "Invalid Pin"
   }
 }
-{
-  "transaction": {
-    "merchant_location": "TimHortons, 700 Spadina, Toronto",
-    "timestamp": "2025-04-15T10:32:45Z",
-    "amount": 28.75,
-    "account_number": "9876543210123456",
-    "card_id": "CARD1234567890XYZ",
-    "card_last4": "3456",
-    "balance_at_transaction": 0.50,
-    "rejection_code": "55",
-    "rejection_reason": "Insufficient Balance"
-  }
-}
