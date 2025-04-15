@@ -1,0 +1,13 @@
+{
+  "transaction": {
+    "merchant_location": "Starbucks, 123 Main St, New York, NY",
+    "timestamp": "2025-04-15T10:32:45Z",
+    "amount": 8.75,
+    "account_number": "9876543210123456",
+    "card_id": "CARD1234567890XYZ",
+    "card_last4": "3456",
+    "balance_at_transaction": 120.50,
+    "rejection_code": "05",
+    "rejection_reason": "Do not honor"
+  }
+}
