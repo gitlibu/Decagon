@@ -7,8 +7,8 @@
     "card_id": "CARD1234567890XYZ",
     "card_last4": "3456",
     "balance_at_transaction": 120.50,
-    "rejection_code": "05",
-    "rejection_reason": "Do not honor"
+    "rejection_code": "85",
+    "rejection_reason": "Invalid Pin"
   }
 }
 {
