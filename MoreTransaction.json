@@ -1,0 +1,37 @@
+{
+  "transactions": [
+    {
+      "merchant_location": "Starbucks, 123 Main St, New York, NY",
+      "timestamp": "2025-04-15T10:32:45Z",
+      "amount": 8.75,
+      "account_number": "9876543210123456",
+      "card_id": "CARD1234567890XYZ",
+      "card_last4": "3456",
+      "balance_at_transaction": 120.50,
+      "rejection_code": "05",
+      "rejection_reason": "Do not honor"
+    },
+    {
+      "merchant_location": "Tim Hortons, 456 Queen St, Toronto, ON",
+      "timestamp": "2025-04-15T11:05:20Z",
+      "amount": 5.50,
+      "account_number": "1234567890987654",
+      "card_id": "CARD0987654321ABC",
+      "card_last4": "8765",
+      "balance_at_transaction": 3.00,
+      "rejection_code": "55",
+      "rejection_reason": "Insufficient balance"
+    },
+    {
+      "merchant_location": "SportChek, 789 King St, Toronto, ON",
+      "timestamp": "2025-04-15T11:42:10Z",
+      "amount": 120.00,
+      "account_number": "1111222233334444",
+      "card_id": "CARD1122334455ZZZ",
+      "card_last4": "4444",
+      "balance_at_transaction": 200.00,
+      "rejection_code": "45",
+      "rejection_reason": "Card is locked"
+    }
+  ]
+}
