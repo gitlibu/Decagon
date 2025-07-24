@@ -8,6 +8,6 @@
     "card_last4": "3456",
     "balance_at_transaction": 120.50,
     "rejection_code": "83",
-    "rejection_reason": "Invalid Pin"
+    "rejection_reason": "Invalid Pin Entered"
   }
 }
